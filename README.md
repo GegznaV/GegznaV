@@ -6,11 +6,12 @@ My name is Vilmantas! I enjoy working in **data science** and sharing my knowled
 
 - ⚙️&nbsp;&nbsp;I use daily: `.ipynb`, `.py`, `.r`, `.qmd`/`.rmd`.
 - 🌱&nbsp;&nbsp;I am continuously learning: statistics, analytics, predictive modeling, computer vision, DevOps, chemometrics, etc.
-- 🎓&nbsp;&nbsp;I teach biostatistics and R at a university.
 - 💻&nbsp;&nbsp;I regularly contribute to open-source projects, especially [r-hyperspec](https://github.com/r-hyperspec).
-- 🌴&nbsp;&nbsp;Exotic data types I've worked with: light (spectroscopic) signals from medical specimens, microbiome gene sequences, and images.
+- 🌴&nbsp;&nbsp;I've worked with some unconventional data types, including light (spectroscopic) signals from medical specimens, microbiome gene sequences, and images.
+- 🎓&nbsp;&nbsp;I teach biostatistics and R at a university.
+- 📚&nbsp;&nbsp;I maintain a [website](https://mokymai.github.io/) with some of my teaching materials (in Lithuanian).
 - 💼&nbsp;&nbsp;I have a [portfolio](https://github.com/GegznaV/ds-projects) showcasing my data science projects.
-- ⚡️&nbsp;&nbsp;Fun fact: I was awarded the best lecturer in 2019.
+- ⚡️&nbsp;&nbsp;Fun fact: I was awarded the Lecturer of the Year in 2019.
 
 
 ## My Tools and Technologies
