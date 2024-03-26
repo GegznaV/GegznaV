@@ -2,7 +2,7 @@
 
 My name is Vilmantas!
 I like doing **data science** and sharing my knowledge with others. 
-I use Python and R daily to solve problems in various fields, especially biomedicine and life sciences, automate processes, develop software, contribute to open source and just have fun with code. And I am always *open* to learning new things and exploring new areas.
+I use Python and R daily to solve problems in various fields, especially biomedicine and life sciences, automate processes, develop software, and contribute to open source. And I am always *open* to learning new things and exploring new areas.
 
 
 ## BIO
