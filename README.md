@@ -1,56 +1,38 @@
-**Welcome!**
+# Welcome!
+
+My name is Vilmantas!
+I like doing **data science** and sharing my knowledge with others. 
+I use Python and R daily to solve problems in various fields, especially biomedicine and life sciences, automate processes, develop software, contribute to open source and just have fun with code. And I am always *open* to learning new things and exploring new areas.
 
 
-I am a university lecturer skilled in data analysis, biostatistics, chemometrics, Python and R programming, fluorescence spectroscopy, and biomedical research.
+## BIO
 
-<!--
-## Connect with me:
+- ⚙️&nbsp;&nbsp;I use daily: `.ipynb`, `.py`, `.r`, `.qmd`/`.rmd`.
+- 🌱&nbsp;&nbsp;Learning all about **data science**: statistics, analytics, predictive modeling, computer vision, deployment, chemometrics, etc.
+- 🎓&nbsp;&nbsp;I teach biostatistics and R at a university.
+- 💻&nbsp;&nbsp;I regularly contribute to open source (especially to [r-hyperspec](https://github.com/r-hyperspec)).
+- 🌴&nbsp;&nbsp;Exotic data types I worked with: light (spectroscopic) signals from medical specimens, microbiome gene sequences, and images.
+- ⚡️&nbsp;&nbsp;Fun fact: I was awarded as the best lecturer in 2019.
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
--->
-
-**Languages and Tools:**
-
-<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
-
-<!--
-<img align="left" alt="SQL" width="26px" src="https://icons.veryicon.com/png/o/miscellaneous/alibaba-cloud-ui-icon-library/sql-11.png" style="padding-right:10px;" />
-
-<img align="left" alt="BASH" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
--->
-
-<br>
-
-<!--
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GegznaV&show_icons=true)](https://github.com/GegznaV/github-readme-stats)
--->
+## My Tools and Technologies
 
 
-<!--
-[![Readme Card: hyperSpec](https://github-readme-stats.vercel.app/api/pin/?username=r-hyperspec&repo=hyperspec)](https://github.com/r-hyperspec/hyperSpec)
--->
+
+<!-- https://github.com/tandpfun/skill-icons#readme -->
+<center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,sqlite,bash,git,vscode,sklearn,pytorch,docker,flask,github,gcp&perline=5" />
+  </a>
+</center>
+
+
+## Let's Connect 
+
+<center>
+<a href="https://www.linkedin.com/in/vilmantas-gegzna/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
+</a>
+<a href="https://www.linkedin.com/in/vilmantas-gegzna/" target="_blank">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=0e76a8&color=black">
+</a>
+</center>
