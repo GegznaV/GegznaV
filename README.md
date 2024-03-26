@@ -1,13 +1,13 @@
 # Welcome!
 
-My name is Vilmantas! I enjoy working in **data science** and sharing my knowledge with others. I use Python and R daily to tackle problems across various fields, particularly in biomedicine and life sciences. I also automate processes, develop software, and contribute to open source projects. I am always *open* to learning new things and exploring new areas. My newest achievement is graduating from a data school, where I sharpened both my technical and soft skills.
+My name is Vilmantas! I enjoy working in **data science** and sharing my knowledge with others. I use Python and R daily to tackle problems across various fields, particularly biomedicine and life sciences. I also automate processes, develop software, and contribute to open-source projects. I am always *open* to learning new things and exploring new areas. My newest achievement is graduating from a data school, where I sharpened both my technical and soft skills.
 
 ## BIO
 
 - ⚙️&nbsp;&nbsp;I use daily: `.ipynb`, `.py`, `.r`, `.qmd`/`.rmd`.
 - 🌱&nbsp;&nbsp;I am continuously learning: statistics, analytics, predictive modeling, computer vision, DevOps, chemometrics, etc.
 - 🎓&nbsp;&nbsp;I teach biostatistics and R at a university.
-- 💻&nbsp;&nbsp;I regularly contribute to open source projects, especially [r-hyperspec](https://github.com/r-hyperspec).
+- 💻&nbsp;&nbsp;I regularly contribute to open-source projects, especially [r-hyperspec](https://github.com/r-hyperspec).
 - 🌴&nbsp;&nbsp;Exotic data types I've worked with: light (spectroscopic) signals from medical specimens, microbiome gene sequences, and images.
 - 💼&nbsp;&nbsp;I have a [portfolio](https://github.com/GegznaV/ds-projects) showcasing my data science projects.
 - ⚡️&nbsp;&nbsp;Fun fact: I was awarded the best lecturer in 2019.
