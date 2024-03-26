@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Vilmantas! I enjoy working in **data science** and sharing my knowledge with others. I use Python and R daily to tackle problems across various fields, particularly in biomedicine and life sciences. I also automate processes, develop software, and contribute to open source projects. I am always *open* to learning new things and exploring new areas.
+My name is Vilmantas! I enjoy working in **data science** and sharing my knowledge with others. I use Python and R daily to tackle problems across various fields, particularly in biomedicine and life sciences. I also automate processes, develop software, and contribute to open source projects. I am always *open* to learning new things and exploring new areas. My newest achievement is graduating from a data school, where I sharpened both my technical and soft skills.
 
 ## BIO
 
