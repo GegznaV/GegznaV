@@ -9,6 +9,7 @@ My name is Vilmantas! I enjoy working in **data science** and sharing my knowled
 - 🎓&nbsp;&nbsp;I teach biostatistics and R at a university.
 - 💻&nbsp;&nbsp;I regularly contribute to open source projects, especially [r-hyperspec](https://github.com/r-hyperspec).
 - 🌴&nbsp;&nbsp;Exotic data types I've worked with: light (spectroscopic) signals from medical specimens, microbiome gene sequences, and images.
+- 💼&nbsp;&nbsp;I have a [portfolio](https://github.com/GegznaV/ds-projects) showcasing my data science projects.
 - ⚡️&nbsp;&nbsp;Fun fact: I was awarded the best lecturer in 2019.
 
 
