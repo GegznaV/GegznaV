@@ -10,7 +10,7 @@ My name is Vilmantas! I enjoy working in **data science** and sharing my knowled
 - 🌴&nbsp;&nbsp;I've worked with some unconventional data types, including light (spectroscopic) signals from medical specimens, microbiome gene sequences, and images.
 - 🎓&nbsp;&nbsp;I teach biostatistics and R at a university.
 - 📚&nbsp;&nbsp;I maintain a [website](https://mokymai.github.io/) with some of my teaching materials (in Lithuanian).
-- 💼&nbsp;&nbsp;I have a [portfolio](https://github.com/GegznaV/ds-projects) showcasing my data science projects.
+- 💼&nbsp;&nbsp;I have a [portfolio](https://gegznav.github.io/ds-projects/) showcasing my data science projects.
 - ⚡️&nbsp;&nbsp;Fun fact: I was awarded the Lecturer of the Year in 2019.
 
 
