@@ -1,5 +1,5 @@
 
-# Welcome!
+# Welcome! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXM1bzVkd2drZXl4ZDU5ZDFkc3NpazJlamkyM21iaGt6eGhpaWF6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nNOAPjUdo4mpZFkDf8/giphy.gif" alt="Bar chart GIF" width="300" style="margin: -80px 0px -30px 0px;">
@@ -14,13 +14,13 @@ My name is Vilmantas!‍🤵 I enjoy working in **data science** and sharing my 
 
 
 - ⚙️&nbsp;&nbsp;I use daily: `.ipynb`, `.py`, `.r`, `.qmd`/`.rmd`.
-- 🌱&nbsp;&nbsp;I am continuously learning: statistics, analytics, predictive modeling, computer vision, DevOps, chemometrics, etc.
+- ⚡&nbsp;&nbsp;I am continuously learning: statistics, analytics, predictive modeling, computer vision, DevOps, chemometrics, etc.
 - 💻&nbsp;&nbsp;I regularly contribute to open-source projects, especially [r-hyperspec](https://github.com/r-hyperspec).
 - 🌴&nbsp;&nbsp;I've worked with some unconventional data types, including light (spectroscopic) signals from medical specimens, microbiome gene sequences, and images.
 - 🎓&nbsp;&nbsp;I teach biostatistics and R at a university.
 - 📚&nbsp;&nbsp;I maintain a [website](https://mokymai.github.io/) with some of my teaching materials (in Lithuanian).
 - 💼&nbsp;&nbsp;I have a [portfolio](https://gegznav.github.io/ds-projects/) showcasing my data science projects.
-- ⚡️&nbsp;&nbsp;Fun fact: I was awarded the Lecturer of the Year in 2019.
+- 🏆&nbsp;&nbsp;Fun fact: I was awarded the Lecturer of the Year in 2019.
 
 
 ## My Tools and Technologies
