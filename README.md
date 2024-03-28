@@ -6,7 +6,7 @@
 </p>
 
 
-My name is Vilmantas!‍🤵 I enjoy working in **data science** and sharing my knowledge with others 🤝. I use Python and R daily to tackle problems across various fields, particularly biomedicine and life sciences 🌱. I automate processes, develop software, and contribute to open-source projects as well 💻. I am always open to learning and exploring new areas 🎓. My newest achievement is graduating from a data school, where I sharpened my technical and soft skills ✔️.
+My name is Vilmantas!‍🤵 I enjoy working in **data science** and sharing my knowledge with others 🤝. I use Python and R daily to tackle problems across various fields, particularly biomedicine and life sciences 🌱. I automate processes, develop software, and contribute to open-source projects as well 💻. I am always open to learning and exploring new areas 🧐. My newest achievement is graduating from a data school, where I sharpened my technical and soft skills 🎓✔️.
 
 ## BIO
 
