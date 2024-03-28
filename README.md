@@ -1,8 +1,17 @@
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXM1bzVkd2drZXl4ZDU5ZDFkc3NpazJlamkyM21iaGt6eGhpaWF6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nNOAPjUdo4mpZFkDf8/giphy.gif" alt="Bar chart GIF" width="350" >
+</p>
+
 # Welcome!
 
-My name is Vilmantas! I enjoy working in **data science** and sharing my knowledge with others. I use Python and R daily to tackle problems across various fields, particularly biomedicine and life sciences. I also automate processes, develop software, and contribute to open-source projects. I am always *open* to learning new things and exploring new areas. My newest achievement is graduating from a data school, where I sharpened both my technical and soft skills.
+
+My name is Vilmantas!‍🤵 I enjoy working in **data science** and sharing my knowledge with others 🤝. I use Python and R daily to tackle problems across various fields, particularly biomedicine and life sciences 🌱. I automate processes, develop software, and contribute to open-source projects as well 💻. I am always open to learning and exploring new areas 🎓. My newest achievement is graduating from a data school, where I sharpened my technical and soft skills ✔️.
 
 ## BIO
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRoYTN0a2hxdXc4czlkN3AwenhiZXZtcDR4M3pyMHIzcjF6dndqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqKOU2VAUx9bt9K4PK/giphy.gif" alt="Startup  GIF" width="200" align="right">
+
 
 - ⚙️&nbsp;&nbsp;I use daily: `.ipynb`, `.py`, `.r`, `.qmd`/`.rmd`.
 - 🌱&nbsp;&nbsp;I am continuously learning: statistics, analytics, predictive modeling, computer vision, DevOps, chemometrics, etc.
@@ -34,3 +43,8 @@ My name is Vilmantas! I enjoy working in **data science** and sharing my knowled
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&color=black">
 </a>
 </center>
+
+<br>
+
+
+
