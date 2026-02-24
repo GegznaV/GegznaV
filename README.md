@@ -6,17 +6,18 @@
 </p>
 
 
-My name is Vilmantas!‍🤵 I enjoy working in **data science** and sharing my knowledge with others 🤝. I use Python and R daily to tackle problems across various fields, particularly biomedicine and life sciences 🌱. I automate processes, develop software, and contribute to open-source projects as well 💻. I am always open to learning and exploring new areas 🧐. My newest achievement is graduating from a data school, where I sharpened my technical and soft skills 🎓✔️.
+My name is Vilmantas!‍🤵 I enjoy working in **data science** and sharing my knowledge with others 🤝. I use Python and R daily to tackle problems across various fields, particularly banking, biomedicine and life sciences 🌱. I automate processes, develop software, and contribute to open-source projects as well 💻. I am always open to learning and exploring new areas 🧐. My newest achievement is graduating from a data school, where I sharpened my technical and soft skills 🎓✔️.
 
 ## BIO
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRoYTN0a2hxdXc4czlkN3AwenhiZXZtcDR4M3pyMHIzcjF6dndqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqKOU2VAUx9bt9K4PK/giphy.gif" alt="Startup  GIF" width="180" align="right" style="margin-top: 15px;">
 
 
-- ⚙️&nbsp;&nbsp;I use daily: `.ipynb`, `.py`, `.r`, `.qmd`/`.rmd`.
-- ⚡&nbsp;&nbsp;I am continuously learning: statistics, analytics, predictive modeling, computer vision, DevOps, chemometrics, etc.
+- ⚙️&nbsp;&nbsp;I use daily: `.ipynb`, `.py`, `.r`, `.qmd`/`.rmd`, .sh, .bat.
+- 🤖&nbsp;&nbsp;I am a fiend of various GenAI tools and use them daily.
+- ⚡&nbsp;&nbsp;I am continuously learning: DevOps, MLOps, statistics, analytics, predictive modeling, computer vision, time-series forecasting, chemometrics, etc.
 - 💻&nbsp;&nbsp;I regularly contribute to open-source projects, especially [r-hyperspec](https://github.com/r-hyperspec).
-- 🌴&nbsp;&nbsp;I've worked with unconventional data types, including light (spectroscopic) signals from medical specimens, microbiome gene sequences, and images.
+- 🌴&nbsp;&nbsp;I've worked with unconventional data types, including time-series data, light (spectroscopic) signals from medical specimens, microbiome gene sequences, and images.
 - 🎓&nbsp;&nbsp;I teach biostatistics and R at a university.
 - 📚&nbsp;&nbsp;I maintain a [website](https://mokymai.github.io/) with some of my teaching materials (in Lithuanian).
 - 💼&nbsp;&nbsp;I have a [portfolio](https://gegznav.github.io/ds-projects/) showcasing my data science projects.
